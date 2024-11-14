@@ -22,6 +22,7 @@ Detailed steps to assemble your robotic arm, focusing on positioning each part a
 
 ### 3. Wiring Diagram
 Clear, easy-to-follow Fritzing diagrams for connecting all components.
+![Robotic Arm](DiagramRoboticArmv1_bb.jpg)
 
 ### 4. Code Explanation
 A step-by-step walkthrough of the code, including:
