@@ -1,5 +1,6 @@
 # DIY Robotic Arm with Arduino
 
+![Robotic Arm](photoRoboticArmV1.jpg)
 ## Getting Started
 
 Want to build your own robotic arm with Arduino? In this project, I’ll show you how to create one from scratch and share the essential steps for a fully functional robotic arm.
